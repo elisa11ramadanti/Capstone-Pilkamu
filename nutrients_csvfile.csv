@@ -1,0 +1,96 @@
+Food,Grams,Calories,Protein,Fat,Sat.Fat,Fiber,Carbs
+cows milk,976,660,32,40,36,0,48
+Susu rendah lemak,984,360,36,0,0,0,52
+Goats' milk,244,165,8,10,8,0,11
+Cheese,225,240,30,11,10,0,6
+Eggs Scrambled or fried,128,220,13,16,14,0,1
+Yolks,34,120,6,10,8,0,0
+Mayonnaise,15,110,0,12,5,0,0
+Beef,85,245,23,16,15,0,0
+Hamburger,85,245,21,17,15,0,0
+Roast beef,85,390,16,36,35,0,0
+Steak,85,330,20,27,25,0,0
+Corned beef,85,185,22,10,9,0,0
+Corned beef hash canned,85,120,12,8,7,0,6
+Fried chicken,100,290,30,18,15,11,0
+Roasted chicken,100,290,25,20,16,0,0
+Duck,100,337,19,28,9,0,0
+Lamb,100,294,25,20,9,0,0
+Crab meat,85,90,14,2,0,0,1
+Fish sticks fried,112,200,19,10,5,0,8
+Sardines,85,180,22,9,4,0,0
+Scallops,100,104,18,8,0,0,10
+Shrimp,85,110,23,1,0,0,0
+Tuna,85,170,25,7,3,0,0
+Beans,125,25,1,0,0,0.08,6
+Broccoli,150,45,5,0,0,1.09,8
+Carrots,150,45,1,0,0,0.09,10
+Corn,100,92,3,1,0,0.08,21
+French-fried,60,155,-1,7,3,0.04,20
+Potato chips,20,110,1,7,4,0,10
+Spinach,100,26,3,0,0,1,3
+Sweet potatoes,110,155,2,1,0,1,36
+Tomatoes,240,50,2,0,0,1,9
+Tomato juice,240,50,2,0,0,0.06,10
+Turnip greens,145,45,4,1,0,1.08,8
+Apples,100,52,0.3,0.2,0,2.4,14
+Avocado,108,185,2,18,12,"97,222",6
+Banana,150,85,1,0,0,0.09,23
+Blackberries,144,85,2,1,0,"291,667",19
+Blueberries,250,245,1,0,0,2,65
+Cantaloupe,380,40,1,0,0,2.2,9
+Cherries,257,100,2,1,0,2,26
+Grapes,153,70,1,0,0,0.08,16
+Grape juice,250,160,1,0,0,0,42
+Lemon juice,125,30,0,0,0,0,10
+Orange juice,250,112,2,0,0,0.02,25
+Papaya,200,75,1,0,0,1.08,18
+Peaches,257,200,1,0,0,1,52
+Pears,255,195,1,0,0,2,50
+Persimmons,125,75,1,0,0,2,20
+Pineapple,122,95,0,0,0,0.04,26
+Pineapple juice,250,120,1,0,0,0.02,32
+Raspberries,100,100,0,0,0,2,25
+Strawberries,227,242,1,0,0,1.03,60
+Tangerines,114,40,1,0,0,1,10
+Watermelon,925,120,2,1,0,3.06,29
+Biscuits,38,130,3,4,3,t,18
+Bread,100,247,9,2,0,7,49
+Corn bread ground meal,50,100,3,4,2,0.3,15
+Cornflakes,25,110,2,0,0,0.01,25
+Corn grits cooked,242,120,8,0,0,0.02,27
+Crackers,14,55,1,1,0,t,10
+Noodles,160,200,7,2,2,0.01,37
+Oatmeal,236,150,5,3,2,4.06,26
+Rice,208,748,15,3,0,1.02,154
+Spaghetti with meat sauce,250,285,13,10,6,0.5,35
+with tomatoes and cheese,250,210,6,5,3,0.5,36
+Waffles,75,240,8,9,1,0.1,30
+Bean soups,250,190,8,5,4,"41,667",30
+Beef soup,250,100,6,4,4,0.5,11
+chicken soup,250,75,4,2,2,0,10
+Cream soups,255,200,7,12,11,1.2,18
+Noodle,250,115,6,4,3,0.2,13
+Split-pea soup,250,147,8,3,3,0.5,25
+Tomato soup,245,175,6,7,6,0.5,22
+Vegetable,250,80,4,2,2,0,14
+Bread pudding,200,374,11,12,11,0.2,56
+Cupcake,50,160,3,3,2,0,31
+Fruit cake,30,105,2,4,3,0.02,17
+Chocolate creams,30,130,0,4,4,0,24
+Milk chocolate,56,290,2,6,6,0.02,44
+Ice cream,300,250,0,0,12,10,0
+Almonds,70,425,13,38,28,1.08,13
+coconut sweetened,50,274,1,20,19,2,26
+Peanut butter,50,300,12,25,17,0.09,9
+Peanuts,50,290,13,25,16,1.02,9
+Tea,230,4,0,0,0,0,1
+Nasi merah,100,111,2.6,0.9,0,1.8,23.5
+bubur ayam,100,80,4,2,3,1,15
+rawon,100,128,10.4,5.8,2.3,0.6,9.6
+tahu,100,144,16,8,1,0.6,3.7
+tempe,100,192,19,11,2,5,9
+bakso,100,200,15,10,4,0,5
+pepes ikan,100,200,20,10,2,0,1
+yoghur,100,61,3.5,3.3,2.1,0,4.7
+capcay,100,50,2,0.5,1,1,10
